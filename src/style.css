@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    background-color: rgb(251, 251, 131);
+}
+
+a {
+    text-decoration: none;
+    padding: 10px;
+}
+
+a:visited {
+    color:black;
+}
+
+a:hover {
+    cursor: pointer;
+    color: red;
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+        
+}
